@@ -1,16 +1,3 @@
-
-if getgenv().Loaded == true then
-                        game.StarterGui:SetCore("SendNotification", {
-                   Title = "sf#0001",
-                   Text = "Already loaded",
-                   Duration = 0.1
-        
-                   })
-        return
-    end
-    
-getgenv().Loaded = true
-
 -- da hood
 if game.PlaceId == 2788229376 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/UKL3/sfanti/main/Dahood"))()
