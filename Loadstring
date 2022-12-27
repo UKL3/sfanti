@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/UKL3/sfanti/main/Place%20Check"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/UKL3/sfanti/main/anti"))()
